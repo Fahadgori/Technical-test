@@ -1,19 +1,11 @@
 
 # Inventory Management and Billing Website using NodeJS, MySQL and Javascript 
 
-This is a free lancing project where I made a dynamic website for managing inventory with features like Billing, Adding, Removing Inventory/Stock and Analysis of Sales and Stocks with custom filters for a retail client
 
 
 
 
   
-
-  
-## Contributing
-
-Contributions are always welcome!
-
-You can let me know if you want to contribute to this project. 
 
 
 
