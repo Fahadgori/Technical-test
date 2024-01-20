@@ -46,7 +46,6 @@ MySQL Installation Guide
 ```bash
   https://www.youtube.com/watch?v=u96rVINbAUI
 ```
-Download mysql database **.sql** file from here
 
 
 Open mysql command prompt(as Administrator) and run the following command:-
